@@ -1,0 +1,26 @@
+/*index page*/
+.nav-item{
+  padding: 0 18px;
+}
+.intro{
+  background-color: #d3d3d3;
+  padding: 10px 10px 10px;
+}
+.Buttons{
+  margin: auto;
+  margin-left: 3%;
+  margin-top: 20px;
+}
+.btn0{
+  padding: 10px 10px 10px;
+  margin: 5px;
+}
+.btn1{
+  margin-left: 33%;
+  padding: 10px 10px 10px;
+  margin: 5px;
+}
+.btn2{
+  padding: 10px 10px 10px;
+  margin: 5px;
+}

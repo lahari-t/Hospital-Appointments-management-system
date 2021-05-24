@@ -1,0 +1,25 @@
+
+#nav1{
+  margin-bottom: 50px;
+}
+.nav-item{
+  padding: 0 18px;
+}
+.bgcolor{
+  background-color: #FFD18C;
+}
+.card-body{
+  background-color: #d3d3d3;
+}
+
+h3{
+  text-align: center;
+}
+
+.departments{
+  text-align: center;
+}
+
+#lgobutton{
+  margin-left: auto;
+}
